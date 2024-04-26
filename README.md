@@ -6,7 +6,8 @@ Il est construit avec:
 - La gestion des dates avec Javascript
 
 ## 
-![deadline](https://github.com/Soulman2131/deadline/assets/109850920/d916566c-6d80-4011-a536-bf118e0ba207)
+![deadline](https://github.com/Soulman2131/deadline/assets/109850920/b92a7539-651c-45c6-8e68-7d0684106731)
+
 
 
 ## INSTALLATION
